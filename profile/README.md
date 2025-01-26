@@ -16,4 +16,14 @@ This project is a simple countdown timer designed to display the remaining time 
 - **May 1, 2025** (Friday)
 - **June 26, 2025** (Thursday)
 
+### Website
+
+You can explore the website here: [konkur-countdown.github.io](https://konkur-countdown.github.io/)
+
+<div align="center">
+  <img 
+    style="width: 700px;"
+    src="https://github.com/konkur-countdown/.github/blob/main/Preview.jpg">
+</div>
+
 Good luck to all the students preparing for Konkur!
